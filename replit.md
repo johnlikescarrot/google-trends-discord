@@ -1,3 +1,5 @@
+We are building a Discord "app" based on TypeScript, https://www.npmjs.com/package/google-trends-api, https://github.com/jestjs/jest, https://github.com/google/wireit, https://github.com/google/gts and https://workers.cloudflare.com/. I want this Discord "app" to be the best Discord "app". I want this Discord "app" to be release ready. I want this Discord "app" to have 100% code coverage with https://github.com/jestjs/jest. Always keep README.md up to date and never edit replit.md. Deep research, always keep going and never ask me again.
+
 ---
 title: 'Ultimate Transparent Thinking Beast Mode'
 description: 'Ultimate Transparent Thinking Beast Mode'
